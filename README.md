@@ -5,9 +5,9 @@
 
 - 📫 How to reach me **sciesla@versamatic.com.pl | contact@cieslaszymon.pl**
 
-- 🌱 I am currently learning **JavaScript**
+- 🌱 I am currently learning **React**
 
-- 🌱 What I will learn next **React**
+- 🌱 What I will do next? I will make second version of my portfolio website but made fully in **React** JS
 
 - ⚡ My Portfolio [https://cieslaszymon.pl/](https://cieslaszymon.pl/)
 
